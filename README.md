@@ -1,7 +1,7 @@
 # TechChallenge_Fase2_WineQuality
 
 
-# Wine Quality Classification
+## Wine Quality Classification
 
 Classificação da qualidade de vinhos com Machine Learning, a partir de dados físico-químicos.
 Projeto do **Tech Challenge – Fase 2**.
@@ -162,7 +162,7 @@ Sugestões para o processo de produção, a serem lidas como associações obser
 
 ```bash
 git clone <url-do-repositorio>
-cd wine-quality-classification
+cd TechChallenge_Fase2_WineQuality
 pip install -r requirements.txt
 jupyter notebook notebooks/Tech_Challenge_Fase2_CristianeLimaSantos.ipynb
 ```
