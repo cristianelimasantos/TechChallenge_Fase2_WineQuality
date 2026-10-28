@@ -1,0 +1,7 @@
+Cenario,Modelo,ROC-AUC,F1
+full,Logistic Regression,0.848,0.467
+full,SVM,0.871,0.532
+full,Random Forest,0.909,0.606
+top5,Logistic Regression,0.801,0.447
+top5,SVM,0.816,0.5
+top5,Random Forest,0.856,0.537
