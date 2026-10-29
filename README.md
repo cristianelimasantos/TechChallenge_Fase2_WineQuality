@@ -173,7 +173,7 @@ Os caminhos do notebook são relativos à pasta em que ele é executado: ele lê
 
 - **Repositório:** código, notebook, scripts auxiliares e resultados, na estrutura básica descrita na seção 2.
 - **Apresentação executiva:** PDF com o storytelling da análise exploratória, armazenado no repositório (`docs/Apresentacao_Executiva_TechChallenge_Fase2.pdf`).
-- **Vídeo executivo:** `<link-do-video>`
+- **Vídeo executivo:** `<link-do-video](https://youtu.be/77Rc7zUgqbs>`
 
 ## 11. Tecnologias
 
